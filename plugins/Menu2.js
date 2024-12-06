@@ -37,11 +37,7 @@ let quote = quotes[Math.floor(Math.random() * quotes.length)];
 
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
-🚀 *_Buckle up ${name}, ${greeting}! We're going on an adventure!_* 🚀
-
-📋 *_Quote of the day: ${quote}_* 📋
-
-『 *ULTRA-MD*』
+『 *DARK-SAMUZA*』
 
 ☆┏━『 *User Info* 』 
 ☆┃ 🪪  *Name:* ${name}  
@@ -53,7 +49,7 @@ let str = `
 ☆┃ ⏰ *Time:*  ${wib} 
 ☆┗━━━━━━━━━━⦿
 ☆┏━━『 *Bot Status* 』
-☆┃  🎩 *Bot Name:* ${botname}
+☆┃  🎩 *Bot Name:* DARK-SAMUZA
 ☆┃ 📣  *Prefix:* ${usedPrefix} 
 ☆┃ 🕓  *Uptime:* ${uptime}
 ☆┗━━━━━━━━━━⦿
@@ -91,7 +87,7 @@ let str = `
 ◈┃• fancy2
 ◈┗━♪♪━★━☆━⦿
 
-© GlobalTechInfo
+© DARK-SAMUZA
 
 > 💡 *_Remember, when in doubt, use ${usedPrefix}list or ${usedPrefix}help It's like my magic spell book!_* 💡
 `
